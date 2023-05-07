@@ -239,3 +239,248 @@ input[value=Send]{
 
 /*footer*/
 
+footer{
+    position: absolute;
+    width: 1510px;
+    height: 395px;
+    background: #121212;
+    top: 1570px;
+}
+
+/*div-1*/
+.div-9{
+    position: absolute;
+    width: 260px;
+    height: 191px;
+    left: 140px;
+    top: 130px;
+}
+.h3-1{
+    position: absolute;
+    width: 149px;
+    height: 34px;
+    font-family: "Poppins";
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.p4-1{
+    position: absolute;
+    width: 260px;
+    height: 83px;
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #b1b1b1;
+    top: 50px;
+}
+.img-1{
+    margin-top: 140px;
+}
+
+/*div-2*/
+.div-10{
+    position: absolute;
+    width: 100px;
+    height: 156px;
+    left: 650px;
+    top: 130px;
+}
+.h5-1{
+    position: absolute;
+    width: 100px;
+    height: 26px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    
+}
+.a-1{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 50px;
+    color: #5863f8;
+}
+.a-2{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 75px;
+    color: #5863f8;
+}
+.a-3{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 100px;
+    color: #5863f8;
+}
+.a-4{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 125px;
+    color: #5863f8;
+}
+
+/*div-3*/
+.div-11{
+    position: absolute;
+    width: 79px;
+    height: 156px;
+    left: 850px;
+    top: 130px;
+}
+.h5-2{
+    position: absolute;
+    width: 66px;
+    height: 26px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.a2-1{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 50px;
+    color: #5863f8;
+}
+.a2-2{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 75px;
+    color: #5863f8;
+}
+.a2-3{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 100px;
+    color: #5863f8;
+}
+.a2-4{
+    position: absolute;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    top: 125px;
+    color: #5863f8;
+}
+
+/*div-4*/
+.div-12{
+    position: absolute;
+    width: 199px;
+    height: 146px;
+    top: 130px;
+    left: 1050px;
+    
+}
+.h5-3{
+    position: absolute;
+    width: 113px;
+    height: 26px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.sd-1{
+    position: absolute;
+    width: 16px;
+    height: 12.8px;
+    top: 50px;
+}
+.sd-2{
+    position: absolute;
+    width: 16px;
+    height: 12.8px;
+    top: 75px;
+}
+.img2-1{
+    position: absolute;
+    width: 16px;
+    height: 12.8px;
+    top: 50px;
+    
+}
+.a3-1{
+    position: absolute;
+    width: 157px;
+    height: 21px;
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    top: 50px;
+    left: 30px;
+}
+.img2-2{
+    position: absolute;
+    width: 26px;
+    top: 80px;
+}
+.a3-2{
+    position: absolute;
+    width: 157px;
+    height: 21px;
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    top: 85px;
+    left: 30px;
+}
+.img2-3{
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    top: 120px;
+}
+.a3-3{
+    position: absolute;
+    width: 166px;
+    height: 21px;
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    top: 125px;
+    left: 30px;
+}
